@@ -1,0 +1,5 @@
+pwned-passwords-sha1-ordered-by-hash-v4.txt
+out*.txt
+.idea/
+.vscode/
+vendor/
